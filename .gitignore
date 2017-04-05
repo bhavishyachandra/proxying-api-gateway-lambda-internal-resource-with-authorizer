@@ -1,3 +1,11 @@
 # Compiled files
 *.tfstate
 *.tfstate.backup
+*.iml
+.idea
+./*.tfstate
+.terraform/
+proxy.zip
+authorizer.zip
+terraform.tfstate
+terraform.tfstate.backup
