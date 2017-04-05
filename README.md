@@ -1,0 +1,1 @@
+# proxying-api-gateway-lambda-internal-resource-with-authorizer
